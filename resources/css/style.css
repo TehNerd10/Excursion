@@ -24,4 +24,9 @@ h3 {
   font-family: verdana;
   font-size: 21px;
   color: gray;
+  text-align: center;
+}
+img {
+  margin: 0 auto;
+  display: block;
 }
